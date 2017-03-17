@@ -23,21 +23,20 @@ Algorithm:
 Example: [1] <br/>
 How Recurf running in 3 Disk <br/>
 <ol>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
+	<li>Move disk 3 from A to C</li>
+	<li>Move disk 2 from A to B </li>
+	<li>Move disk 3 from C to B</li>
+	<li>Move disk 1 from A to C</li>
+	<li>Move disk 3 from B to A</li>
+	<br/>
+	<li>Move disk 2 from B to C</li>
+	<li>Move disk 3 from A to C</li>
+	
 
 
 </ol>
 
 Example: [2] <br/>
 How Recurf running in 4 Disk <br/>
-<ol>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-</ol>
+you can see this image
+<img src="https://rusdyana.files.wordpress.com/2009/11/hanoi1.jpg" height="300" width="300">
