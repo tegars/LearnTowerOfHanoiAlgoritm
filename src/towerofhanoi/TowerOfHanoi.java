@@ -10,12 +10,10 @@ package towerofhanoi;
  * @author Tegar
  */
 public class TowerOfHanoi {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        algorithm t= new algorithm();
+        t.doTower(5, 'A', 'B', 'C');
+        System.out.println("-----------------");
+        System.out.println("Lots of recursion is: "+t.putaran);
     }
-    
 }
