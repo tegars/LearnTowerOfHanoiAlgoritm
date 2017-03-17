@@ -4,7 +4,7 @@ also called the <b> Tower of Brahma</b> or <b>Lucas' Tower</b> is a mathematical
 find by : Eduard Lucas (Franc) <br/>
 find on : 1883 <br/>
 <br/>
-Klik <a href="http://www.web-games-online.com/towers-of-hanoi/">Link</a> if you want to play this game.
+Click <a href="http://www.web-games-online.com/towers-of-hanoi/">Link</a> if you want to play this game.
 
 Rule of This Algorithm:<br/>
 <ol>
