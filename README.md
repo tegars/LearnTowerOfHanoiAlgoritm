@@ -38,5 +38,5 @@ How Recurf running in 3 Disk <br/>
 
 Example: [2] <br/>
 How Recurf running in 4 Disk <br/>
-you can see this image
+you can see this image <br/>
 <img src="https://rusdyana.files.wordpress.com/2009/11/hanoi1.jpg" height="300" width="300">
