@@ -1,9 +1,9 @@
 # algoritm-tower-of-hanoi
 also called the <b> Tower of Brahma</b> or <b>Lucas' Tower</b> is a mathematical game or puzzle
-find by : Eduard Lucas (Franc)
-find on : 1883
+find by : Eduard Lucas (Franc) <br/>
+find on : 1883 <br/>
 
-Rule of This Algorithm:
+Rule of This Algorithm:<br/>
 
 
 
