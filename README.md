@@ -4,7 +4,7 @@ also called the <b> Tower of Brahma</b> or <b>Lucas' Tower</b> is a mathematical
 find by : Eduard Lucas (Franc) <br/>
 find on : 1883 <br/>
 <br/>
-Klik <a href="http://www.web-games-online.com/towers-of-hanoi/">Link</a> if you want to play this game.
+Click <a href="http://www.web-games-online.com/towers-of-hanoi/">Link</a> if you want to play this game.
 
 Rule of This Algorithm:<br/>
 <ol>
@@ -23,21 +23,23 @@ Algorithm:
 Example: [1] <br/>
 How Recurf running in 3 Disk <br/>
 <ol>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
+	<li>Move disk 3 from A to C</li>
+	<li>Move disk 2 from A to B </li>
+	<li>Move disk 3 from C to B</li>
+	<li>Move disk 1 from A to C</li>
+	<li>Move disk 3 from B to A</li>
+	<br/>
+	<li>Move disk 2 from B to C</li>
+	<li>Move disk 3 from A to C</li>
+	
 
 
 </ol>
 
 Example: [2] <br/>
 How Recurf running in 4 Disk <br/>
-<ol>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-</ol>
+you can see this image <br/>
+<img src="https://rusdyana.files.wordpress.com/2009/11/hanoi1.jpg" height="500" width="500">
+
+<br/><hr/>
+-Like Algorithm
