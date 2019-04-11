@@ -1,4 +1,4 @@
-# Tower of Hanoi Algoritm
+# Tower of Hanoi Algoritm Using Java 
 Also called the <b> Tower of Brahma</b> or <b>Lucas' Tower</b> is a mathematical game or puzzle
 <br/><br/>
 find by : Eduard Lucas (Franc) <br/>
