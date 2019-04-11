@@ -31,15 +31,13 @@ How Recurf running in 3 Disk <br/>
 	<br/>
 	<li>Move disk 2 from B to C</li>
 	<li>Move disk 3 from A to C</li>
-	
-
-
 </ol>
+<img src="https://1.bp.blogspot.com/-y4sfP0IXYGA/XK7A8sosClI/AAAAAAAAAcg/jH4MCinyRl8Jyv0t-A4TSVC9K4GvSZMmQCLcBGAs/s640/3%2Bmenara%2Bhanoi.jpg" height="500" width="500">
 
+<hr/>
 Example: [2] <br/>
 How Recurf running in 4 Disk <br/>
 you can see this image <br/>
-<img src="https://rusdyana.files.wordpress.com/2009/11/hanoi1.jpg" height="500" width="500">
-
+<img src="https://3.bp.blogspot.com/-p_t-2AAbWes/XK7A8l6OixI/AAAAAAAAAcc/bU7BLapZEfMupH37JhdF0Gt9fDgAJ0XYACLcBGAs/s640/4%2Bmenara%2Bhanoi.jpg" height="500" width="500">
 <br/><hr/>
 -Like Algorithm
