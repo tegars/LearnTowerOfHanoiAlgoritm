@@ -1,8 +1,8 @@
 ##### Tower of Hanoi Algoritm
 Description: 
-<ol>
+<ul>
 <li>Java SE</li>
-</ol>
+</ul>
 <br/>
 is a mathematical game or puzzle who find by Eduard Lucas at 1883
 <br/><hr/>
