@@ -1,9 +1,8 @@
-##### Tower of Hanoi Algoritm
-Description: 
+# Tower of Hanoi Algoritm
+is a mathematical game or puzzle who find by Eduard Lucas at 1883<br/>
+<i>Preparation:</i>
 <ul>
-<li>Java SE</li>
+  <li>Java SE 7.2</li>
+  <li>Netbeans</li>
 </ul>
-<br/>
-is a mathematical game or puzzle who find by Eduard Lucas at 1883
-<br/><hr/>
--Love Code
+<a href="https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/">See Doc</a>
